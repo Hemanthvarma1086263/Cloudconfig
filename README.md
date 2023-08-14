@@ -1,0 +1,7 @@
+# Cloudconfig
+
+server.port=8073
+spring.datasource.url= jdbc:mysql://localhost:3306/restaurant
+spring.datasource.username=root
+spring.datasource.password=123456
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
